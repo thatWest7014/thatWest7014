@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm West7014/Blitz!
 
-<!--
-**thatWest7014/thatWest7014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a primarily backend developer with [`javascript`] via Node.js with experience with [`lua`] and its [`luau`] and [`luaj`] descendants. Also, a [`html`] developer that also covers UI+UX.
 
-Here are some ideas to get you started:
+- Pronouns: [PronounPage](https://en.pronouns.page/@west7014)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Key Notes
+
+- Self taught, full stack developer
+- Started coding in **2019**
+
+## Projects
+
+- [`Nova`] - A powerful multipurpose Discord bot for large or small communities.
+- [`HSRF`] - A (nearly) solo ROBLOX game project.
+> Please note that I tend to get in and out of projects frequently so this may not be entirely accurate.
+
+### GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatWest7014&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+> Provided by [`GitHub Readme Stats`]
+
+[`Discord`](https://discord.com/)
+[`Discord.js`](https://discord.js.org/)
+[`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats)
+
