@@ -1,4 +1,4 @@
-# Hi there, I'm West7014/Blitz!
+# Hi there, I'm West7014/Frost!
 
 I'm a primarily backend developer with [`javascript`] via Node.js with experience with [`lua`] and its [`luau`] and [`luaj`] descendants. Also, a [`html`] developer that also covers UI+UX.
 
