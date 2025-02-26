@@ -6,9 +6,9 @@ I'm a primarily a backend developer with [`javascript`] via Node.js with experie
 
 ## Key Notes
 
-### - Self-taught dev
-### - Certified Web Developer
-### - Started coding in late **2019**.
+- Self-taught dev
+- Certified Web Developer
+- Started coding in late **2019**.
 
 ## Projects
 
