@@ -1,8 +1,8 @@
 # Hi there, I'm West7014/Frost!
 
 ##I'm a primarily a backend developer with [`javascript`] via Node.js with experience with [`lua`] and its descendants. Also, a [`html`] developer that also covers UI+UX.
-
-### - Pronouns: [any/all](https://en.pronouns.page/@west7014)
+#### 
+- Pronouns: [any/all](https://en.pronouns.page/@west7014)
 
 ## Key Notes
 
@@ -14,7 +14,8 @@
 
 - [`Nova`] - A powerful and rich Discord bot that connects communities on different platforms.
 - [`HSRF`] - A (nearly) solo ROBLOX game project.
-#### > *Please note that I tend to get in and out of projects frequently so this may not be entirely accurate.*
+##### 
+> *Please note that I tend to get in and out of projects frequently so this may not be entirely accurate.*
 
 ### GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatWest7014&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
