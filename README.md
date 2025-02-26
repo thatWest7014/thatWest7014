@@ -1,6 +1,6 @@
 # Hi there, I'm West7014/Frost!
 
-## I'm a primarily a backend developer with [`javascript`] via Node.js with experience with [`lua`] and its descendants. Also, a [`html`] developer that also covers UI+UX.
+I'm a primarily a backend developer with [`javascript`] via Node.js with experience with [`lua`] and its descendants. Also, a [`html`] developer that also covers UI+UX.
 #### 
 - Pronouns: [any/all](https://en.pronouns.page/@west7014)
 
