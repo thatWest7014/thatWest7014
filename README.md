@@ -11,9 +11,12 @@ I'm a primarily a backend developer with [`javascript`] via Node.js with experie
 - Started coding in late **2019**.
 
 ## Projects
-
+### General Projects
 - [`Nova`] - A powerful and rich Discord bot that connects communities on different platforms.
-- [`HSRF`] - A (nearly) solo ROBLOX game project.
+### Game Development Projects
+- [`HSRF`] - A ROBLOX Sci-Fi game
+- [`Vexel`] - A ROBLOX combat game
+- [`PENDING A NAME`] - A C++ First-person story-driven game.
 ##### 
 > *Please note that I tend to get in and out of projects frequently so this may not be entirely accurate.*
 
