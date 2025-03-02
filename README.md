@@ -1,29 +1,29 @@
-# Hi there, I'm West7014/Frost!
+# :wave: Hi there, I'm West7014/Frost!
 
 I'm a primarily a backend developer with [`javascript`] via Node.js with experience with [`lua`] and its descendants. Also, a [`html`] developer that also covers UI+UX.
 #### 
 - Pronouns: [any/all](https://en.pronouns.page/@west7014)
 
-## Key Notes
+## 📌 Key Notes
 
 - Self-taught dev
 - Certified Web Developer
 - Started coding in late **2019**.
 
-## 📃 Projects
+## 🛠️ Projects
 ### These are projects I manage or am involved in.
 #### ⚙️ General Projects
-- [`Nova`] - A powerful and rich Discord bot that connects communities on different platforms.
-- [`Nexus`] - A powerful tool for cross-platform moderation. A part of the Nova project.
-- [`Atlas`] - A tool for resource management and orchestration within the Nirmini group.
-- [`Vector`] - A game engine for learning purposes.
-#### 🚶 Game Development Projects
-- [`HSRF`] - A ROBLOX Sci-Fi game
-- [`Vexel`] - A ROBLOX combat game
-- [`PENDING A NAME`] - A C++ First-person story-driven game.
-#### 💬 Other projects I work on
-- [`SNRF`] - A ROBLOX Sci-Fi game made by Sother Nuclear Inc.
-- [`CERC`] - A ROBLOX SCi-Fi game made by Keystone Nuclear Research Labs.
+- 🤖 [`Nova`] - A powerful and rich Discord bot that connects communities on different platforms.
+- ⚒️ [`Nexus`] - A powerful tool for cross-platform moderation. A part of the Nova project.
+- 🔗 [`Atlas`] - A tool for resource management and orchestration within the Nirmini group.
+- 🏗 [`Vector`] - A game engine for learning purposes.
+#### 🎮 Game Development Projects
+- 🏢 [`HSRF`] - A ROBLOX Sci-Fi game
+- ⚔️ [`Vexel`] - A ROBLOX combat game
+- 🏗 [`PENDING A NAME`] - A C++ First-person story-driven game.
+#### 📃 Other projects I work on
+- ☢️ [`SNRF`] - A ROBLOX Sci-Fi game made by Sother Nuclear Inc.
+- ☢️ [`CERC`] - A ROBLOX Sci-Fi game made by Keystone Nuclear Research Labs.
 
 ##### 
 > *Please note that I tend to get in and out of projects frequently so this may not be entirely accurate.*
