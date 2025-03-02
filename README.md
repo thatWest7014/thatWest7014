@@ -11,12 +11,19 @@ I'm a primarily a backend developer with [`javascript`] via Node.js with experie
 - Started coding in late **2019**.
 
 ## Projects
-### General Projects
+### These are projects I manage or am involved in.
+#### General Projects
 - [`Nova`] - A powerful and rich Discord bot that connects communities on different platforms.
-### Game Development Projects
+- [`Nexus`] - A powerful tool for cross-platform moderation. A part of the Nova project.
+- [`Atlas`] - A tool for resource management and orchestration within the Nirmini group.
+#### Game Development Projects
 - [`HSRF`] - A ROBLOX Sci-Fi game
 - [`Vexel`] - A ROBLOX combat game
 - [`PENDING A NAME`] - A C++ First-person story-driven game.
+#### Other projects I work on
+- [`SNRF`] - A ROBLOX Sci-Fi game made by Sother Nuclear Inc.
+- [`CERC`] - A ROBLOX SCi-Fi game made by Keystone Nuclear Research Labs.
+
 ##### 
 > *Please note that I tend to get in and out of projects frequently so this may not be entirely accurate.*
 
