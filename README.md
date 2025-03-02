@@ -22,7 +22,7 @@ I'm a primarily a backend developer with [`javascript`] via Node.js with experie
 - ⚔️ [`Vexel`] - A ROBLOX combat game
 - 🏗 [`PENDING A NAME`] - A C++ First-person story-driven game.
 #### 📃 Other projects I work on
-- ☢️ [`SNRF`] - A ROBLOX Sci-Fi game made by Sother Nuclear Inc.
+- ☢️ [`SNRF`] - A ROBLOX Sci-Fi game made by Southern Nuclear Inc.
 - ☢️ [`CERC`] - A ROBLOX Sci-Fi game made by Keystone Nuclear Research Labs.
 
 ##### 
