@@ -13,7 +13,7 @@ I'm a primarily a backend developer with [`javascript`] via Node.js with experie
 ## 🛠️ Projects
 ### These are projects I manage or am involved in.
 #### ⚙️ General Projects
-- 🤖 [`Nova`] - A powerful and rich Discord bot that connects communities on different platforms.
+- 🤖 [`Nova`] - A open-source Discord bot for moderating communities spread across different platofrms in one central place.
 - ⚒️ [`Nexus`] - A powerful tool for cross-platform moderation. A part of the Nova project.
 - 🔗 [`Atlas`] - A tool for resource management and orchestration within the Nirmini group.
 - 🏗 [`Vector`] - A game engine for learning purposes.
