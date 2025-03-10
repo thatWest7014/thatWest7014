@@ -16,6 +16,7 @@ I'm a primarily a backend developer with [`javascript`] via Node.js with experie
 - 🤖 [`Nova`] - A open-source Discord bot for moderating communities spread across different platofrms in one central place.
 - ⚒️ [`Nexus`] - A powerful tool for cross-platform moderation. A part of the Nova project.
 - 🔗 [`Atlas`] - A tool for resource management and orchestration within the Nirmini group.
+- 🛠️ [`Bot Maker's Toolkit`] - An app made in electron made to make creating a Discord or Guilded bot easy while still keeping the full Discord API accessible.
 - 🏗 [`Vector`] - A game engine for learning purposes.
 #### 🎮 Game Development Projects
 - 🏢 [`HSRF`] - A ROBLOX Sci-Fi game
