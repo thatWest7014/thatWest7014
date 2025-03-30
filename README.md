@@ -39,7 +39,7 @@ I'm primarily a backend developer who mainly works with Javascript, Lua, C++, an
 
 > Provided by [`Skill Icons`]
 
-[`Discord`](https://discord.com/)
-[`Discord.js`](https://discord.js.org/)
+[`Discord`](https://discord.gg/9Y7aZejzUH)
+[`NovaBot`](https://github.com/Nirmini/NovaBot)
 [`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats)
 [`Skill Icons`](https://skillicons.dev)
