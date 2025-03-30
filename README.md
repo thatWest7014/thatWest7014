@@ -6,7 +6,7 @@ I'm primarily a backend developer who mainly works with Javascript, Lua, C++, an
 
 ## 📌 Key Notes
 
-- Self-taught dev
+- Self-taught HTML, JS, C++, and LUA dev
 - Certified Web Developer
 - Started coding in late **2019**.
 
