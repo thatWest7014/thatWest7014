@@ -1,6 +1,6 @@
-# :wave: Hi there, I'm West7014!
+# :wave: Hi there, I'm Ayther!
 
-I'm primarily a backend developer who mainly works with Javascript, Lua, C++, and others. Depending on where you know me from, I also go by Frost, Ayther, and many other names.
+I'm primarily a backend developer who mainly works with Javascript, Lua, C++, and others. Depending on where you know me from, I also go by Frost, West7014, West, and many other names.
 #### 
 - Pronouns: [any/all](https://en.pronouns.page/@west7014)
 
