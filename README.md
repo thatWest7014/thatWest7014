@@ -1,6 +1,6 @@
 # :wave: Hi there, I'm Ayther!
 
-I'm primarily a backend developer who mainly works with Javascript, Lua, C++, and others. Depending on where you know me from, I also go by Frost, West7014, West, and many other names.
+I'm primarily a backend developer who mainly works with JavaScript, Lua, C++, and others. Depending on where you know me from, I also go by Frost, West7014, West, and many other names.
 #### 
 - Pronouns: [any/all](https://en.pronouns.page/@west7014)
 
@@ -13,21 +13,17 @@ I'm primarily a backend developer who mainly works with Javascript, Lua, C++, an
 ## 🛠️ Projects
 ### These are projects I manage or am involved in.
 #### ⚙️ General Projects
-- 🤖 [`Nova`] - A open-source Discord bot for moderating communities spread across different platofrms in one central place.
-- ⚒️ [`Nexus`] - A powerful tool for cross-platform moderation. A part of the Nova project.
-- 🔗 [`Atlas`] - A tool for resource management and orchestration within the Nirmini group.
-- 🛠️ [`Bot Maker's Toolkit`] - An app made in electron made to make creating a Discord or Guilded bot easy while still keeping the full Discord API accessible.
-- 🏗 [`Vector`] - A game engine for learning purposes.
+- 🤖 [`Nova`] - An open-source Discord bot for moderating communities spread across different platforms in one central place.
+- 🛠️ [`Bot Maker's Toolkit`] - An app made in electron made to make creating a Discord or Guilded bot easy while still keeping the full Discord API accessible..
 #### 🎮 Game Development Projects
 - 🏢 [`HSRF`] - A ROBLOX Sci-Fi game
 - ⚔️ [`Vexel`] - A ROBLOX combat game
-- 🏗 [`PENDING A NAME`] - A C++ First-person story-driven game.
-#### 📃 Other projects I work on
+#### 📃 Other projects I occasionally work on:
 - ☢️ [`SNRF`] - A ROBLOX Sci-Fi game made by Southern Nuclear Inc.
 - ☢️ [`CERC`] - A ROBLOX Sci-Fi game made by Keystone Nuclear Research Labs.
 
 ##### 
-> *Please note that I tend to get in and out of projects frequently so this may not be entirely accurate.*
+> *Please note that I tend to get in and out of projects frequently, so this may not be entirely accurate.*
 
 ### GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatWest7014&layout=donut)
