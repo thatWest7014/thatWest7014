@@ -18,9 +18,6 @@ I'm primarily a backend developer who mainly works with JavaScript, Lua, C++, an
 #### 🎮 Game Development Projects
 - 🏢 [`HSRF`] - A ROBLOX Sci-Fi game
 - ⚔️ [`Vexel`] - A ROBLOX combat game
-#### 📃 Other projects I occasionally work on:
-- ☢️ [`SNRF`] - A ROBLOX Sci-Fi game made by Southern Nuclear Inc.
-- ☢️ [`CERC`] - A ROBLOX Sci-Fi game made by Keystone Nuclear Research Labs.
 
 ##### 
 > *Please note that I tend to get in and out of projects frequently, so this may not be entirely accurate.*
