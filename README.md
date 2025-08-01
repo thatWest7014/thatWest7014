@@ -1,23 +1,24 @@
 # :wave: Hi there, I'm Ayther!
 
-I'm primarily a backend developer who mainly works with JavaScript, Lua, C++, and others. Depending on where you know me from, I also go by Frost, West7014, West, and many other names.
+I'm primarily a backend developer who mainly works with JavaScript, Lua, C++, and others. Feel free to call me Ayther or West7014 or something else, I don't really care.
 #### 
-- Pronouns: [any/all](https://en.pronouns.page/@west7014)
+- Pronouns: [she/any](https://en.pronouns.page/@west7014)
 
 ## 📌 Key Notes
 
-- Self-taught HTML, JS, C++, and Lua dev
+- Self-taught HTML, JS, C++*, and Lua dev
 - Certified Web Developer
 - Started coding in late **2019**.
 
 ## 🛠️ Projects
 ### These are projects I manage or am involved in.
 #### ⚙️ General Projects
-- 🤖 [`Nova`] - An open-source Discord bot for moderating communities spread across different platforms in one central place.
-- 🛠️ [`Bot Maker's Toolkit`] - An app made in electron made to make creating a Discord or Guilded bot easy while still keeping the full Discord API accessible..
+- 🤖 [`Nova`](https://github.com/Nirmini/NovaBot) - An open-source Discord bot for moderating communities spread across different platforms in one central place.
+   - [`NovaCore`](https://github.com/thatWest7014/NovaCore) - Core of the Nova Discord bot. 
+   - [`NovaWorks`] - Internal API framework for bot management and monitoring.
+   - [`NovaAPI`] - API for web dashboards intended for use in Discord Bots. No clue what I'm doing! :D
 #### 🎮 Game Development Projects
 - 🏢 [`HSRF`] - A ROBLOX Sci-Fi game
-- ⚔️ [`Vexel`] - A ROBLOX combat game
 
 ##### 
 > *Please note that I tend to get in and out of projects frequently, so this may not be entirely accurate.*
