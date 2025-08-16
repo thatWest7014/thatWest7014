@@ -2,7 +2,7 @@
 
 I'm primarily a backend developer who mainly works with JavaScript, Lua, C++, and others. Feel free to call me Ayther or West7014 or something else, I don't really care.
 #### 
-- Pronouns: [she/any](https://en.pronouns.page/@west7014)
+- Pronouns: [any/all](https://en.pronouns.page/@west7014)
 
 ## 📌 Key Notes
 
