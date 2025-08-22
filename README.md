@@ -1,6 +1,6 @@
-# :wave: Hi there, I'm Ayther!
+# :wave: Hi there, I'm Cosmo!
 
-I'm primarily a backend developer who mainly works with JavaScript, Lua, C++, and others. Feel free to call me Ayther or West7014 or something else, I don't really care.
+I'm primarily a backend developer who mainly works with JavaScript, Lua, C++, and others. Feel free to call me Cosmo, West7014, or something else; I don't really care.
 #### 
 - Pronouns: [any/all](https://en.pronouns.page/@west7014)
 
