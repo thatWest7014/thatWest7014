@@ -6,7 +6,7 @@ Full-stack and Game developer with experience in HTML/CSS, JavaScript, Node.js, 
 
 ## 📌 Key Notes
 
-- Self-Taught HTML/CSS, Javascrit/Node.js, Lua, and C++ developer.
+- Self-Taught HTML/CSS, Javascript/Node.js, Lua, and C++ developer.
 - Certified in Web Development, among other things.
 - Started coding around late **2019**.
 
