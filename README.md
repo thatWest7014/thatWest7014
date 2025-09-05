@@ -23,17 +23,20 @@ Full-stack and Game developer with experience in HTML/CSS, JavaScript, Node.js, 
 ##### 
 > *Please note that I tend to get in and out of projects frequently, so this may not be entirely accurate.*
 
-### GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatWest7014&layout=donut)
+## 📊 Github Stats
 
-> Provided by [`GitHub Readme Stats`]
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=thatWest7014&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatWest7014&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+
+---
 
 ### Here's some of the things I've worked with over the years:
 ![JS, HTML, CSS, MS Azure, Bash, BitBucket, Blender, C, C++, Codepen, Discord, Bots, Docker, DotNET, Electron, Express.js, Firebase, gcp, Git, GitHub, GitLab, Adobe Illustrator, Lua, Markdown, mySQL, Node.js, Photoshop, PHP, Premire Pro, React.js, Regex, Unity, Typescript, Unreal Engine, VSCode, and Windows](https://skillicons.dev/icons?i=js,html,css,azure,bash,bitbucket,blender,c,cpp,codepen,discord,bots,discordjs,docker,dotnet,electron,express,firebase,gcp,git,github,gitlab,ai,lua,md,mysql,nodejs,ps,php,pr,react,regex,unity,ts,unreal,vscode,windows)
 
-> Provided by [`Skill Icons`]
-
+<details>
+   <summary>Links</summary>
 [`Discord`](https://discord.gg/9Y7aZejzUH)
 [`NovaBot`](https://github.com/Nirmini/NovaBot)
 [`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats)
 [`Skill Icons`](https://skillicons.dev)
+</details>
