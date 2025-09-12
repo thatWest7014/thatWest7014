@@ -1,4 +1,4 @@
-# :wave: Hi there, I'm Cosmo!
+# :wave: Hi there, I'm Katt!
 
 Full-stack and Game developer with experience in HTML/CSS, JavaScript, Node.js, Lua, and C++. I don't mind what you call me as long as you don't push it.
 #### 
