@@ -13,7 +13,7 @@ Full-stack and Game developer with experience in HTML/CSS, JavaScript, Node.js, 
 ## 🛠️ Projects
 ### These are projects of mine or that I'm involved in.
 #### ⚙️ General Projects
-- 🤖 [`Nova`](https://github.com/Nirmini/NovaBot) - An open-source Discord bot for moderating communities spread across different platforms in one central place.
+- 🤖 [`Nova`](https://github.com/Nirmini/Nova) - An open-source Discord bot for moderating communities spread across different platforms in one central place.
    - [`NovaCore`](https://github.com/thatWest7014/NovaCore) - Core of the Nova Discord bot. 
    - [`NovaWorks`] - Internal API framework for bot management and monitoring.
    - [`NovaAPI`] - API for web dashboards intended for use in Discord Bots. No clue what I'm doing! :D
