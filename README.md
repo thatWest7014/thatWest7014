@@ -9,6 +9,7 @@ Full-stack and Game developer with experience in HTML/CSS, JavaScript, Node.js, 
 - Self-Taught HTML/CSS, Javascript/Node.js, Lua, and C++ developer.
 - Certified in Web Development, among other things.
 - Started coding around late **2019**.
+- Founder and Director of [`Nirmini (Development)`](https://github.com/Nirmini).
 
 ## 🛠️ Projects
 ### These are projects of mine or that I'm involved in.
