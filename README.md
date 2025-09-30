@@ -34,9 +34,11 @@ Full-stack and Game developer with experience in HTML/CSS, JavaScript, Node.js, 
 ![JS, HTML, CSS, MS Azure, Bash, BitBucket, Blender, C, C++, Codepen, Discord, Bots, Docker, DotNET, Electron, Express.js, Firebase, gcp, Git, GitHub, GitLab, Adobe Illustrator, Lua, Markdown, mySQL, Node.js, Photoshop, PHP, Premire Pro, React.js, Regex, Unity, Typescript, Unreal Engine, VSCode, and Windows](https://skillicons.dev/icons?i=js,html,css,azure,bash,bitbucket,blender,c,cpp,codepen,discord,bots,discordjs,docker,dotnet,electron,express,firebase,gcp,git,github,gitlab,ai,lua,md,mysql,nodejs,ps,php,pr,react,regex,unity,ts,unreal,vscode,windows)
 
 <details>
-   <summary>Links</summary>
-[`Discord`](https://discord.gg/9Y7aZejzUH)
-[`NovaBot`](https://github.com/Nirmini/NovaBot)
-[`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats)
-[`Skill Icons`](https://skillicons.dev)
+  <summary>Links</summary>
+
+  - [`Discord`](https://discord.gg/9Y7aZejzUH)  
+  - [`NovaBot`](https://github.com/Nirmini/NovaBot)  
+  - [`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats)  
+  - [`Skill Icons`](https://skillicons.dev)  
+
 </details>
