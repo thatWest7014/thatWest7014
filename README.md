@@ -31,8 +31,12 @@ Full-stack and Game developer with experience in HTML/CSS, JavaScript, Node.js, 
 
 ---
 
-### Here's some of the things I've worked with over the years:
-![JS, HTML, CSS, MS Azure, Bash, BitBucket, Blender, C, C++, Codepen, Discord, Bots, Docker, DotNET, Electron, Express.js, Firebase, gcp, Git, GitHub, GitLab, Adobe Illustrator, Lua, Markdown, mySQL, Node.js, Photoshop, PHP, Premire Pro, React.js, Regex, Unity, Typescript, Unreal Engine, VSCode, and Windows](https://skillicons.dev/icons?i=js,html,css,azure,bash,bitbucket,blender,c,cpp,codepen,discord,bots,discordjs,docker,dotnet,electron,express,firebase,gcp,git,github,gitlab,ai,lua,md,mysql,nodejs,ps,php,pr,react,regex,unity,ts,unreal,vscode,windows)
+## Here's some of the things I've worked with over the years:
+
+### Languages
+![](https://skillicons.dev/icons?i=js,html,css,bash,c,cpp,lua,md,mysql,php,ts,go,kotlin,py&theme=dark)
+### Tools/Platforms
+![](https://skillicons.dev/icons?i=azure,bitbucket,blender,cloudflare,codepen,discord,discordjs,docker,dotnet,electron,express,firebase,gcp,git,github,gitlab,ai,kubernetes,linux,mysql,npm,ps,pr,react,regex,robloxstudio,sentry,unity,unreal,vim,vscode,vue,windows,workers&theme=dark)
 
 <details>
   <summary>Links</summary>
