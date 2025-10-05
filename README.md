@@ -36,7 +36,7 @@ Full-stack and Game developer with experience in HTML/CSS, JavaScript, Node.js, 
 ### Languages
 [![JS, HTML, CSS, BASH, C, C++, LUA, MD, MySQL, PHP, TS, GO, Kotlin, Python](https://skillicons.dev/icons?i=js,html,css,bash,c,cpp,lua,md,mysql,php,ts,go,kotlin,py&perline=14&theme=dark)](#)
 ### Tools
-[![Blender, Docker, DotNET, Electron, Express, Git, Adobe Illustrator, Kubernetes, MySQL, NPM, Photoshop, Premiere Pro, React, Roblox Studio, Sentry, Unity, Unreal Engine, Vim, VSCode, Vue, CF Wokers, Gamemaker](https://skillicons.dev/icons?i=blender,docker,dotnet,electron,express,git,ai,kubernetes,mysql,nodejs,npm,ps,pr,react,regex,robloxstudio,sentry,unity,unreal,vim,vscode,vue,workers,gamemakerstudio&perline=14&theme=dark)](#)
+[![Blender, Docker, DotNET, Electron, Express, Git, Adobe Illustrator, Kubernetes, MySQL, NPM, Photoshop, Premiere Pro, React, Roblox Studio, Sentry, Unity, Unreal Engine, Vim, VSCode, Vue, CF Wokers, Gamemaker, Android Studio](https://skillicons.dev/icons?i=blender,docker,dotnet,electron,express,git,ai,kubernetes,mysql,nodejs,npm,ps,pr,react,regex,robloxstudio,sentry,unity,unreal,vim,vscode,vue,workers,gamemakerstudio,androidstudio&perline=14&theme=dark)](#)
 ### Platforms
 [![Azure, Bitbucket, Cloudflare, Codepen, Discord, Discord.js, Firebase, Figma, GCP, GitHub, Gitlab, Linux, Windows, CF Workers](https://skillicons.dev/icons?i=azure,bitbucket,cloudflare,codepen,discord,discordjs,firebase,figma,gcp,github,gitlab,linux,windows,workers&perline=14&theme=dark)](#)
 
