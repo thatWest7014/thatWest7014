@@ -30,8 +30,9 @@ A person that mostly focuses on game and software development and does art. (Vib
 
 ## 📊 Github Stats
 
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=thatWest7014&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatWest7014&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 ---
 
