@@ -49,7 +49,7 @@ A person that mostly focuses on game and software development and does art. (Vib
 
   - [`Discord`](https://discord.gg/9Y7aZejzUH)  
   - [`NovaBot`](https://github.com/Nirmini/NovaBot)  
-  - [`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats)  
+  - [`GitHub Readme Stats`](https://github.com/stats-organization/github-readme-stats-action)  
   - [`Skill Icons`](https://skillicons.dev)  
 
 </details>
