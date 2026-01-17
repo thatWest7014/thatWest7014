@@ -32,7 +32,6 @@ A person that mostly focuses on game and software development and does art. (Vib
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 ---
 
