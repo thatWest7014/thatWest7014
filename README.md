@@ -2,7 +2,7 @@
 
 A person that mostly focuses on game and software development and does art. (Vibe-"Coding" is not coding, change my mind.)
 #### 
-- Pronouns: [she/they/any](https://en.pronouns.page/@_simplykatt)
+- Pronouns: [she/they/any](https://en.pronouns.page/@_simplykatt) :transgender_flag:
 
 ## 📌 Key Notes
 
@@ -43,6 +43,13 @@ A person that mostly focuses on game and software development and does art. (Vib
 [![Blender, Docker, DotNET, Electron, Express, Git, Adobe Illustrator, Kubernetes, MySQL, NPM, Photoshop, Premiere Pro, React, Roblox Studio, Sentry, Unity, Unreal Engine, Vim, VSCode, Vue, CF Wokers, Gamemaker, Android Studio](https://skillicons.dev/icons?i=blender,docker,dotnet,electron,express,git,ai,kubernetes,mysql,nodejs,npm,ps,pr,react,regex,robloxstudio,sentry,unity,unreal,vim,vscode,vue,workers,gamemakerstudio,androidstudio&perline=14&theme=dark)](#)
 ### Platforms
 [![Azure, Bitbucket, Cloudflare, Codepen, Discord, Discord.js, Firebase, Figma, GCP, GitHub, Gitlab, Linux, Windows, CF Workers](https://skillicons.dev/icons?i=azure,bitbucket,cloudflare,codepen,discord,discordjs,firebase,figma,gcp,github,gitlab,linux,windows,workers&perline=14&theme=dark)](#)
+
+## Contact me
+- [`Discord`](https://discord.com/users/600464355917692952)
+- [`Email`](mailto:west701497@gmail.com)
+- [`Email (Alt)`](mailto:simplykatt@nirmini.dev)
+- [`Nirmini Support`](mailto:support@nirmini.dev)
+- [`Roblox`](https://www.roblox.com/users/798440211)
 
 <details>
   <summary>Links</summary>
