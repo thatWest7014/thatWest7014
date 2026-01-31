@@ -38,9 +38,9 @@ A person that mostly focuses on game and software development and does art. (Vib
 ## Here's some of the things I've worked with over the years:
 
 ### Languages
-[![JS, HTML, CSS, BASH, C, C++, LUA, MD, MySQL, PHP, TS, GO, Kotlin, Python](https://skillicons.dev/icons?i=js,html,css,bash,c,cpp,lua,md,mysql,php,ts,go,kotlin,py&perline=18&theme=dark)](#)
+[![JS, HTML, CSS, BASH, C, C++, LUA, MD, MySQL, PHP, TS, GO, Kotlin, Python](https://skillicons.dev/icons?i=js,html,css,bash,c,cpp,lua,md,mysql,php,ts,go,kotlin,py&perline=15&theme=dark)](#)
 ### Tools
-[![Blender, Docker, DotNET, Electron, Express, Git, Adobe Illustrator, Kubernetes, MySQL, NPM, Photoshop, Premiere Pro, React, Roblox Studio, Sentry, Unity, Unreal Engine, Vim, VSCode, Vue, CF Wokers, Gamemaker, Android Studio, Vite](https://skillicons.dev/icons?i=blender,docker,dotnet,electron,express,git,ai,kubernetes,mysql,nodejs,npm,ps,pr,react,regex,robloxstudio,sentry,unity,unreal,vim,vscode,vue,workers,gamemakerstudio,androidstudio,vite&perline=18&theme=dark)](#)
+[![Blender, Docker, DotNET, Electron, Express, Git, Adobe Illustrator, Kubernetes, MySQL, NPM, Photoshop, Premiere Pro, React, Roblox Studio, Sentry, Unity, Unreal Engine, Vim, VSCode, Vue, CF Wokers, Gamemaker, Android Studio, Vite](https://skillicons.dev/icons?i=blender,docker,dotnet,electron,express,git,ai,kubernetes,mysql,nodejs,npm,ps,pr,react,regex,robloxstudio,sentry,unity,unreal,vim,vscode,vue,workers,gamemakerstudio,androidstudio,vite&perline=15&theme=dark)](#)
 ### Platforms
 [![Azure, Bitbucket, Cloudflare, Codepen, Discord, Discord.js, Firebase, Figma, GCP, GitHub, Gitlab, Linux, Windows, CF Workers, Linux Mint, Arch Linux, Ubuntu, Vercel](https://skillicons.dev/icons?i=azure,bitbucket,cloudflare,codepen,discord,discordjs,firebase,figma,gcp,github,gitlab,linux,windows,workers,mint,arch,ubuntu,vercel&perline=18&theme=dark)](#)
 
