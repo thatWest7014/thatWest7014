@@ -2,7 +2,7 @@
 
 A person that mostly focuses on game and software development and does art. (Vibe-"Coding" is not coding, change my mind.)
 #### 
-- Pronouns: [she/they/any](https://en.pronouns.page/@_simplykatt) :transgender_flag:
+- Pronouns: [she/her/they](https://en.pronouns.page/@_simplykatt) :transgender_flag:
 
 ## 📌 Key Notes
 
