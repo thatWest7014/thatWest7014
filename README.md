@@ -1,6 +1,7 @@
 # :wave: Hi there, I'm KitKatt!
 
-A person that mostly focuses on game and software development and does art. (Vibe-"Coding" is not coding, change my mind.)
+I'm a student that generally works in Information Technology (IT) alongside Cybersecurity. In other words, I get to assemble the trains and their tracks and then try to derail them. [Based on the introduction to "Hacking Google"](https://www.youtube.com/watch?v=przDcQe6n5o). I also do art and a few other hobbies and projects, including film production, pixel art, and many, many more. My opinion on AI can generally be summed up as "it sucks 99% of the time unless it's locally run." I am also the director/founder of the Nirmini Development group, a software and game development group that was originally [founded on the Roblox platform](https://www.roblox.com/communities/33610529/Nirmini). (Vibe-coding isn't coding, btw, just because coding teaches you things and vibe-coding doesn't.)
+
 #### 
 - Pronouns: [she/her/they](https://en.pronouns.page/@_simplykatt) :transgender_flag:
 
@@ -25,8 +26,12 @@ A person that mostly focuses on game and software development and does art. (Vib
 - 🔫 [`Project Vexel`] - A currently delayed Roblox FPS game with PvP and PvE aspects developed by Nirmini Development.
 - 🔧 [`Bot Maker's Toolkit`] - A Windows App built on GameMaker & Node.js that allows users to create and manage Discord bots via Discord.js.
 
+## 🖋 Pentests
+### This is a list of various things that I've done security work with, when I remember to update it.
+- Securly, currently ongoing
+
 ##### 
-> *Please note that I tend to get in and out of projects frequently, so this may not be entirely accurate.*
+> *Please note that I tend to get in and out of projects and such pretty frequently, so this may not be entirely accurate.*
 
 ## 📊 Github Stats
 
@@ -47,7 +52,6 @@ A person that mostly focuses on game and software development and does art. (Vib
 ## Contact me
 - [`Discord`](https://discord.com/users/600464355917692952)
 - [`Email`](mailto:west701497@gmail.com)
-- [`Email (Alt)`](mailto:simplykatt@nirmini.dev)
 - [`Nirmini Support`](mailto:support@nirmini.dev)
 - [`Roblox`](https://www.roblox.com/users/798440211)
 
