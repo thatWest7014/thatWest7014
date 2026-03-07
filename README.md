@@ -28,7 +28,7 @@ I'm a student that generally works in Information Technology (IT) alongside Cybe
 
 ## 🖋 Pentests
 ### This is a list of various things that I've done security work with, when I remember to update it.
-- Securly, currently ongoing
+- Securly, reported 3/6/2026
 
 ##### 
 > *Please note that I tend to get in and out of projects and such pretty frequently, so this may not be entirely accurate.*
