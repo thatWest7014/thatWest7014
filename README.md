@@ -1,3 +1,5 @@
+![Profile Banner](https://raw.githubusercontent.com/thatWest7014/thatWest7014/refs/heads/main/images/wp5915648.jpg)
+---
 # :wave: Hi there, I'm KitKatt!
 
 I'm a student that generally works in Information Technology (IT) alongside Cybersecurity. In other words, I get to assemble the trains and their tracks and then try to derail them. ([Based on the introduction to "Hacking Google"](https://www.youtube.com/watch?v=przDcQe6n5o)) I also do art and a few other hobbies and projects, including film production, pixel art, and many, many more. My opinion on AI can generally be summed up as "it sucks 99% of the time unless it's locally run." I am also the director/founder of the Nirmini Development group, a software and game development group that was originally [founded on the Roblox platform](https://www.roblox.com/communities/33610529/Nirmini). (Vibe-coding isn't coding, btw, just because coding teaches you things and vibe-coding doesn't.)
