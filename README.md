@@ -30,13 +30,13 @@ I'm a student who generally works in Information Technology (IT) alongside Cyber
 #### 📚 Hobby Projects
 - [`LocalMatter`] - A completely self-hosted matter device controller that can be run locally or connected to a Google/Apple home
    - [`AntiMatter`] - The web-based dashboard for the application and home management utility
-   - [`AntiGravity`] - The C#-based dashboard for the app and the home utility, alongside some other changes compared to the web dashboard.
-- [`LIFX-Testing`] - Testing package I made to better manage lights in a way that works and runs locally, and supports a majority of the features of the smart app, minus the presets.
+   - [`AntiGravity`] - The C#-based dashboard for the app and the home utility, plus some exclusive features
+- [`LIFX-Testing`] - Testing package I made to better manage lights in a way that works and runs locally, and supports all the core features of the app.
 
 #### 🛠️ General Projects
 - [`Nirmini.dev`](https://nirmini.dev) - Website for my development group, Nirmini, or more formally, Nirmini Development.
-- [`Nirmini API`](https://api.nirmini.dev) - Cloudflare Pages-based API created in Typescript and JavaScript that handles user authentication, various application features, etc.
-- [`Nirmini Developers Platform`](https://platform.nirmini.dev) - A Cloudflare Page that uses React.js to allow developers to read over documentation, test various APIs, and manage accounts.
+- [`Nirmini API`](https://api.nirmini.dev) - Cloudflare Pages-based API created in Typescript and JavaScript that handles everything API for Nirmini.
+- [`Nirmini Devs Platform`](https://platform.nirmini.dev) - A Cloudflare Page that uses React.js so devs can read documentation, test APIs, and manage accounts.
 - [`BetterYTPlaylists`] - A project to create a better YT Playlist widget within WordPress, created in PHP.
 
 #### 🖊️ Pentests
