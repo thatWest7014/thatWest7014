@@ -31,7 +31,7 @@ I'm a student who generally works in Information Technology (IT) alongside Cyber
 - [`LocalMatter`] - A completely self-hosted matter device controller that can be run locally or connected to a Google/Apple home
    - [`AntiMatter`] - The web-based dashboard for the application and home management utility
    - [`AntiGravity`] - The C#-based dashboard for the app and the home utility, plus some exclusive features
-- [`LIFX-Testing`] - Testing package I made to better manage lights in a way that works and runs locally, and supports all the core features of the app.
+- [`LIFX-Testing`](https://github.com/thatWest7014/LIFX-LAN-Client-Node) - Testing package I made to better manage lights in a way that works and runs locally, and supports all the core features of the app.
 
 #### 🛠️ General Projects
 - [`Nirmini.dev`](https://nirmini.dev) - Website for my development group, Nirmini, or more formally, Nirmini Development.
