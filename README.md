@@ -1,6 +1,6 @@
 ![Profile Banner](https://raw.githubusercontent.com/thatWest7014/thatWest7014/refs/heads/main/images/wp5915648.jpg)
 ---
-# :wave: Hi there, I'm KitKatt!
+# :wave: Hi there, I'm KitKatt or Katt!
 
 Nirmini Founder, Security Researcher, Game + Software Developer, Furry, Photographer, etc.
 
