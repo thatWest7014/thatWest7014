@@ -7,7 +7,7 @@ Nirmini Founder, Security Researcher, Game + Software Developer, Furry, Photogra
 I'm a HS student who works in Information Tech (IT), Cybersecurity, and Web/Game/App Development. I mostly work in creation applications and then pentesting them or (borrowing [Google's analogy](https://www.youtube.com/watch?v=przDcQe6n5o)), creating a network of model trains and then finding ways to derail those trains and make it so that other people can't abuse that same flaw. I also do or am involved in some other stuff like pixel art, graphic design, the furry fandom, and film/broadcasting. I also operate the day-to-day operations of Nirmini, an indie tech studio. (Unverified Vibe-coding isn't coding, it doesn't make you think about things like implementations and such which means you probably don't know your application well.)
 
 #### 
-- Pronouns: [she/her/they](https://en.pronouns.page/@_simplykatt) :transgender_flag:
+- Pronouns: [she/her](https://en.pronouns.page/@_simplykatt) :transgender_flag:
 
 ## 📌 Key Notes
 
