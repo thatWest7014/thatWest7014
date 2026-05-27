@@ -4,7 +4,7 @@
 
 Nirmini Founder, Security Researcher, Game + Software Developer, Furry, Photographer, etc.
 
-I'm a student who generally works in Information Technology (IT) alongside Cybersecurity. In other words, I get to assemble the trains and their tracks and then try to derail them. ([Based on the introduction to "Hacking Google"](https://www.youtube.com/watch?v=przDcQe6n5o)) I also do art and a few other hobbies and projects, including film production, pixel art, and many, many more. My opinion on AI can generally be summed up as "it sucks 99% of the time unless it's locally run. Then it's less bad, but still not good." I am also the director/founder of the Nirmini Development group, a software and game development group that was originally [founded on the Roblox platform](https://www.roblox.com/communities/33610529/Nirmini). (Vibe-coding isn't coding, btw, just because coding teaches you things and vibe-coding doesn't.)
+I'm a HS student who works in Information Tech (IT), Cybersecurity, and Web/Game/App Development. I mostly work in creation applications and then pentesting them or (borrowing [Google's analogy](https://www.youtube.com/watch?v=przDcQe6n5o)), creating a network of model trains and then finding ways to derail those trains and make it so that other people can't abuse that same flaw. I also do or am involved in some other stuff like pixel art, graphic design, the furry fandom, and film/broadcasting. I also operate the day-to-day operations of Nirmini, an indie tech studio. (Unverified Vibe-coding isn't coding, it doesn't make you think about things like implementations and such which means you probably don't know your application well.)
 
 #### 
 - Pronouns: [she/her/they](https://en.pronouns.page/@_simplykatt) :transgender_flag:
@@ -41,8 +41,11 @@ I'm a student who generally works in Information Technology (IT) alongside Cyber
 - [`Nirmini Devs Platform`](https://platform.nirmini.dev) - A Cloudflare Page that uses React.js so devs can read documentation, test APIs, and manage accounts.
 - [`BetterYTPlaylists`] - A project to create a better YT Playlist widget within WordPress, created in PHP.
 
-#### 🖊️ Pentests
-- [`Securly Classroom`](https://www.securly.com/classroom), Initially reported March 23rd, 2026
+#### 🖊️ Pentests (Completed and planned/in-progress)
+- Securly - N/A
+- Canvas LMS - Planned
+- Google - Planned
+- Valve - Planned
 
 ##### 
 > *Please note that I tend to get in and out of projects and such pretty frequently, so this may not be entirely accurate.*
@@ -63,11 +66,19 @@ I'm a student who generally works in Information Technology (IT) alongside Cyber
 ### Platforms
 [![Azure, Bitbucket, Cloudflare, Codepen, Discord, Discord.js, Firebase, Figma, GCP, GitHub, Gitlab, Linux, Windows, CF Workers, Linux Mint, Arch Linux, Ubuntu, Vercel](https://skillicons.dev/icons?i=azure,bitbucket,cloudflare,codepen,discord,discordjs,firebase,figma,gcp,github,gitlab,linux,windows,workers,mint,arch,ubuntu,vercel&perline=18&theme=dark)](#)
 
-## Contact me
-- [`Discord`](https://discord.com/users/600464355917692952)
-- [`Email`](mailto:west701497@gmail.com)
-- [`Nirmini Support`](mailto:support@nirmini.dev)
-- [`Roblox`](https://www.roblox.com/users/798440211)
+
+
+## Other Stuff
+<details>
+   <summary>Contact Methods</summary>
+
+   - [`Discord`](https://discord.com/users/600464355917692952)
+   - [`Email`](mailto:west701497@gmail.com)
+   - [`Nirmini Support`](mailto:support@nirmini.dev)
+   - [`Roblox`](https://www.roblox.com/users/798440211)
+   - [`Email(alt)`](mailto:simplykit0@proton.me)
+
+</details>
 
 <details>
   <summary>Links</summary>
