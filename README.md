@@ -89,3 +89,5 @@ I'm a HS student who works in Information Tech (IT), Cybersecurity, and Web/Game
   - [`Skill Icons`](https://skillicons.dev)  
 
 </details>
+
+![Profile Footer](https://raw.githubusercontent.com/simplyKatt/simplyKatt/refs/heads/main/images/360_F_1397384749_hrhILD6z37EOf789RfaoKCn2BUgyXcfv.jpg)
